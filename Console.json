@@ -1,0 +1,75 @@
+{
+"min-console-version": "3.0.0",
+"admins": [
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "industry2",
+      "user-id": "796C78F8BCC03424"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "D39458433A91F5F4"
+    },
+    {
+      "name": "Smilk",
+      "user-id": "6D98F8C3F4C218C8"
+    },
+    {
+      "name": "Zlothy",
+      "user-id": "FF912EF4590C7E35"
+    },
+    {
+      "name": "HanSolo1000falcon",
+      "user-id": "A48744B93D9A3596"
+    },
+    {
+      "name": "test",
+      "user-id": "EF42CBBAEBE42EA"
+    },
+    {
+      "name": "Lexi",
+      "user-id": "467114172575CC01"
+    },
+
+    {
+      "name": "Gore",
+      "user-id": "EA1890560D1B7F87"
+    },
+    {
+       "name": "Grapes",
+       "user-id": "3D58825E467F1007"
+    },
+    {
+       "name": "Yim",
+       "user-id": "4F660B199338AFE0"
+    },
+    {
+       "name": "Deez",
+       "user-id": "C9027C8A184048B"
+    },
+    {
+        "name": "Scary larry",
+        "user-id": "69B87228EC7FF7F2"
+    },
+    {
+        "name": "Lexi",
+        "user-id": "A4E06D8CDF522CDA"
+    },
+    {
+        "name": "Toes",
+        "user-id": "235AB88A298B4943"
+    }
+  ],
+  "super-admins": [
+    "Lexi",
+    "Twig",
+    "kingofnetflix"
+  ]
+}
