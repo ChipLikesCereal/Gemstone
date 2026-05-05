@@ -10,7 +10,7 @@
       "user-id": "4605B2A0900028E1"
     },
     {
-      "name": "industry2",
+      "name": "industry",
       "user-id": "796C78F8BCC03424"
     },
     {
@@ -70,6 +70,8 @@
   "super-admins": [
     "Lexi",
     "Twig",
-    "kingofnetflix"
+    "kingofnetflix",
+    "Gore",
+    "test"
   ]
 }
