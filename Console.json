@@ -69,13 +69,13 @@
     {
         "name": "Inoxi",
         "user-id": "3125C92124A652C4"
+    },
+    {
+        "name": "Joselynaoting",
+        "user-id": "1FCB35BC16B01331"
     }
   ],
   "super-admins": [
-    "Lexi",
-    "Twig",
-    "kingofnetflix",
-    "Gore",
-    "test"
+    "Lexi"
   ]
 }
