@@ -59,7 +59,7 @@
         "user-id": "69B87228EC7FF7F2"
     },
     {
-        "name": "Lexi",
+        "name": "LexiAlt",
         "user-id": "A4E06D8CDF522CDA"
     },
     {
@@ -84,6 +84,7 @@
     }
   ],
   "super-admins": [
-    "Lexi"
+    "Lexi",
+      "LexiAlt"
   ]
 }
