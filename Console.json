@@ -10,16 +10,24 @@
       "user-id": "4605B2A0900028E1"
     },
     {
-      "name": "industry2",
+      "name": "industry",
       "user-id": "796C78F8BCC03424"
     },
     {
-      "name": "kingofnetflix",
-      "user-id": "D39458433A91F5F4"
+        "name": "Kitty femboy furry nyahh~~~",
+        "user-id": "69B87228EC7FF7F2"
     },
     {
-      "name": "Smilk",
-      "user-id": "6D98F8C3F4C218C8"
+        "name": "Pwod",
+        "user-id": "9A6123000B299F14"
+    },
+    {
+        "name": "OmalleyGoonT",
+        "user-id": "E4C1C960B316D71"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "19CC01E8F0B98F01"
     },
     {
       "name": "Zlothy",
@@ -55,21 +63,39 @@
        "user-id": "C9027C8A184048B"
     },
     {
-        "name": "Scary larry",
-        "user-id": "69B87228EC7FF7F2"
-    },
-    {
-        "name": "Lexi",
+        "name": "LexiAlt",
         "user-id": "A4E06D8CDF522CDA"
     },
     {
         "name": "Toes",
         "user-id": "235AB88A298B4943"
+    },
+    {
+        "name": "Inoxi",
+        "user-id": "3125C92124A652C4"
+    },
+    {
+        "name": "Joselynaoting",
+        "user-id": "1FCB35BC16B01331"
+    },
+    {
+        "name": "AltA",
+        "user-id": "DE3BED8BF8600272"
+    },
+    {
+        "name": "LITTLEMONKEY",
+        "user-id": "EA317E5FBDE3F3DA"
+    },
+    {
+        "name": "idxgameboy",
+        "user-id": "1BE7602C447549B4"
     }
   ],
   "super-admins": [
-    "Lexi",
-    "Twig",
-    "kingofnetflix"
+      "Lexi",
+      "LexiAlt",
+      "Deez",
+      "Joselynaoting",
+      "Kitty femboy furry nyahh~~~"
   ]
 }
